@@ -1,5 +1,4 @@
 - 👋 Oi, sou o Alexandre
 - 👀 Aualmente, estou interessado em criação de web apliccations
-- 🌱 Por enquanto aprendendo HTML, CSS, nodejs, mongoDB, expressjs
-
+- 🌱 Por enquanto aprendendo a criar sites no front-end e back-end, utilizando databases
 - 📫 Meu email é alexandreces666@gmail.com
