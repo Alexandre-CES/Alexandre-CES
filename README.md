@@ -4,8 +4,9 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-CES&show_icons=true&theme=radical&count_private=true&layout=compact&hide=assembly,cython,powershell" alt="Linguagens Mais Usadas"/>
   
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-CES&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>
-  <img src="giphy.gif" height="200px" width="200px" align="right"> 
+  
 </div>
+<img src="giphy.gif" height="200px" width="200px" align="right"> 
 
 ---
 
