@@ -1,11 +1,10 @@
 # Opa, Seja Bem-vindo(a)!
 
-
 <div align="center">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-CES&show_icons=true&theme=radical&count_private=true&layout=compact&hide=assembly,cython,powershell"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-CES&show_icons=true&theme=radical&count_private=true&layout=compact&hide=assembly,cython,powershell" alt="Linguagens Mais Usadas"/>
   
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-CES&show_icons=true&show_icons=true&theme=radical&count_private=true" />
-<img src="giphy.gif" height="200px" wifth="200px" align="right"> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-CES&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="giphy.gif" height="200px" width="200px" align="right"> 
 </div>
 
 ---
@@ -27,4 +26,3 @@
   <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
-
