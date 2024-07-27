@@ -1,10 +1,7 @@
 # Opa, Seja Bem-vindo(a)!
 
 <div align="center">
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-CES&show_icons=true&theme=radical&count_private=true&layout=compact&hide=assembly,cython,powershell" alt="Linguagens Mais Usadas"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-CES&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>
-  
 </div>
 
 ---
