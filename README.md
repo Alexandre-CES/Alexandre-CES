@@ -27,4 +27,6 @@
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" title="React" alt="React" width="40" height="40"/>&nbsp;
+
 </div>
